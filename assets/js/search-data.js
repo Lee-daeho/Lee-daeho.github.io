@@ -16,27 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "dropdown-publications",
               title: "publications",
               description: "",
@@ -80,7 +59,10 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-attend-to-chi-21-virtually-as-co-first-author",
+    },{id: "news-my-first-first-author-paper-styling-words-a-simple-and-natural-way-to-increase-variability-in-training-data-collection-for-gesture-recognition-is-accepted-to-chi-21",
+          title: 'My first first-author paper “Styling Words: a Simple and Natural Way to Increase...',
+          description: "",
+          section: "News",},{id: "news-attend-to-chi-21-virtually-as-co-first-author",
           title: 'Attend to CHI’21 virtually as co-first author!',
           description: "",
           section: "News",},{id: "news-my-first-exhibition-won-new-media-art-contest-from-seoul-art-center-and-korea-electric-power-corporation",
@@ -88,10 +70,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-my-first-first-author-paper-styling-words-a-simple-and-natural-way-to-increase-variability-in-training-data-collection-for-gesture-recognition-is-accepted-to-chi-21",
-          title: 'My first first-author paper “Styling Words: a Simple and Natural Way to Increase...',
-          description: "",
-          section: "News",},{id: "news-attending-to-cvpr-22-in-new-orleans-louisiana",
+            },},{id: "news-attending-to-cvpr-22-in-new-orleans-louisiana",
           title: 'Attending to CVPR’22 in New Orleans, Louisiana!',
           description: "",
           section: "News",},{id: "news-attending-to-iccv-23-in-paris-france",
@@ -150,35 +129,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("mailto:%6C%65%65%64%61%65%68%6F@%67%6D.%67%69%73%74.%61%63.%6B%72", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=Wi9A5fMAAAAJ&hl", "_blank");
         },
       },{
       id: 'light-theme',
