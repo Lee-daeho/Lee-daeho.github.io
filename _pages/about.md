@@ -31,7 +31,7 @@ announcements:
 
 I am a Ph.D candidate in [SCILAB](https://sci.gist.ac.kr) at GIST, being advised by [Jin-Hyuk Hong](https://scholar.google.com/citations?user=iTu5G9QAAAAJ&hl=en).
 
-My research focuses on AI for Human, HCI, eXtended Reality with AI, multi-modal AI that enhance user experience and usability. I'm very interested in enhancing user experience when human interacts with computer system, believing that AI should be very useful and reliable tool for human. I have done projects and studies across disciplines, including Mechanical Engineering, Art, Computer Science, Education, etc.
+My research focuses on AI for Human, HCI, AI for eXtended Reality, multi-modal AI that enhance user experience and usability. I'm very interested in enhancing user experience when human interacts with computer system, believing that AI should be very useful and reliable tool for human. I have done projects and studies across disciplines, including Mechanical Engineering, Art, Computer Science, Education, etc.
 
 My ultimate goal is making people feel comfortable and happy during interaction.
 
