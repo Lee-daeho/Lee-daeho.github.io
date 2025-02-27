@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attending to ICCV'23 in Paris, France!
+Attend to ICCV'23 in Paris, France!

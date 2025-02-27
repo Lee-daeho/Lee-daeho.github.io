@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Ph.D Candidate in Department of AI Convergence, Gwangju Institute of Science and Technology</p>
     <p>leedaeho@gm.gist.ac.kr</p>
     <p>Republic of Korea</p>
 
@@ -32,6 +33,8 @@ I am a Ph.D candidate in [SCILAB](https://sci.gist.ac.kr) at GIST, being advised
 
 My research focuses on AI for Human, HCI, eXtended Reality with AI, multi-modal AI that enhance user experience and usability. I'm very interested in enhancing user experience when human interacts with computer system, believing that AI should be very useful and reliable tool for human. I have done projects and studies across disciplines, including Mechanical Engineering, Art, Computer Science, Education, etc.
 
-My ultimate goal is making people comfortable and happy during interactions. If you are interested in collaborative research/projects, please feel free to mail me.
+My ultimate goal is making people feel comfortable and happy during interaction.
 
-I'm looking for a internship(visiting scholar) position which can be fully funded by Gwangju Institute of Science and Technology. If you are interested, please feel free to mail me.
+If you are interested in collaborative research/projects, please feel free to mail me.
+
+I'm looking for a internship(visiting scholar) position which will be fully funded by Gwangju Institute of Science and Technology. If you are interested, please feel free to mail me.

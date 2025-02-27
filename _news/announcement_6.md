@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first second-author paper "MVPrompt: Building Music-Visual Prompts for AI Artists to Craft Music Video Mise-en-scène" is conditionally accepted to CHI'25!
+My first second-author paper "MVPrompt: Building Music-Visual Prompts for AI Artists to Craft Music Video Mise-en-scène" is accepted to CHI'25!

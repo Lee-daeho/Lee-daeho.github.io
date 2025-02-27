@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attending to CVPR'22 in New Orleans, Louisiana!
+Attend to CVPR'22 in New Orleans, Louisiana!
