@@ -2,14 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D Candidate in Department of AI Convergence, Gwangju Institute of Science and Technology
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ph.D Candidate in Department of AI Convergence, Gwangju Institute of Science and Technology</p>
+    <p>Ph.D Candidate</p> 
+    <p>AI Graduated School</p>
+    <p>Department of AI Convergence</p>    
+    <p>Gwangju Institute of Science and Technology</p>
     <p>leedaeho@gm.gist.ac.kr</p>
     <p>Republic of Korea</p>
 
