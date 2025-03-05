@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ph.D Candidate</p> 
@@ -15,7 +15,6 @@ profile:
     <p>Gwangju Institute of Science and Technology</p>
     <p>leedaeho@gm.gist.ac.kr</p>
     <p>Republic of Korea</p>
-
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
