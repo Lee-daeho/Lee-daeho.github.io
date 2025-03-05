@@ -6,8 +6,8 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image: prof_pic_color.png
+  image_circular: True # crops the image to make it circular
   more_info: >
     <p>Ph.D Candidate</p> 
     <p>AI Graduated School</p>
