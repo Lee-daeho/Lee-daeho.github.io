@@ -39,4 +39,5 @@ My ultimate goal is making people feel comfortable and happy during interaction.
 
 If you are interested in collaborative research/projects, please feel free to mail me.
 
+
 I'm looking for a internship(visiting scholar) position which will be fully funded by Gwangju Institute of Science and Technology. If you are interested, please feel free to mail me.

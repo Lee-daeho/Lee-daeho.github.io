@@ -194,7 +194,6 @@ exclude:
   - vendor
   - _pages/blog.md
   - _posts
-  - _pages/projects.md
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/profiles.md
