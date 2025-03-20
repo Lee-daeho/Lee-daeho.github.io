@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: ".",
@@ -89,57 +96,39 @@ ninja.data = [{
           section: "News",},{id: "news-attend-to-chi-25-in-yokohama-japan-if-you-want-a-coffee-chat-please-feel-free-to-mail-me",
           title: 'Attend to CHI’25 in Yokohama, Japan! If you want a coffee chat, please...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-harvesting-robot",
+          title: 'Harvesting Robot',
+          description: "Wokred as Team Leader &amp; Main Software Developer, Python, TensorFlow, Jetson TX2, Realsense, MicroController. 2018. 09 ~ 2020. 09.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-intelligent-model-car-competition",
+          title: 'Intelligent Model Car Competition',
+          description: "Worked as Team Leader &amp; Main Software Developer, MicroController (ARM), Line Sensing Camera, IR Sensor (2019. 03 ~ 2019. 07)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-delta-robot",
+          title: 'Delta Robot',
+          description: "Worked as Team Leader &amp; Main Software Developer, MicroController (Atmega 128), C#, Inverse Kinematics, Servo Motor (2018. 02 ~ 2018. 07)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-led-pov",
+          title: 'LED-POV',
+          description: "Worked as Team member &amp; Sub Software Developer, MicroController (Atmega 128), C#, DC Motor (2018. 02 ~ 2018. 07)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6C%65%65%64%61%65%68%6F@%67%6D.%67%69%73%74.%61%63.%6B%72", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/Lee-daeho", "_blank");
         },
       },{
         id: 'social-scholar',
