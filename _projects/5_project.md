@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Harvesting Robot
+title: Please note that if you don't wear a face mask, you restrict to ()
 description: Wokred as Team Member & Main Software Developer, Python, Pytorch, Real-Time, Generative AI. 2021. 03 ~ 2021. 04
 img: assets/img/Catalog.jpg
 importance: 1
