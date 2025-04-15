@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of my projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -93,8 +93,11 @@ ninja.data = [{
           section: "News",},{id: "news-my-first-second-author-paper-mvprompt-building-music-visual-prompts-for-ai-artists-to-craft-music-video-mise-en-scène-is-accepted-to-chi-25",
           title: 'My first second-author paper “MVPrompt: Building Music-Visual Prompts for AI Artists to Craft...',
           description: "",
-          section: "News",},{id: "news-attend-to-chi-25-in-yokohama-japan-if-you-want-a-coffee-chat-please-feel-free-to-mail-me",
-          title: 'Attend to CHI’25 in Yokohama, Japan! If you want a coffee chat, please...',
+          section: "News",},{id: "news-attend-to-chi-25-in-yokohama-japan-if-you-want-to-have-a-coffee-chat-please-feel-free-to-mail-or-ping-me",
+          title: 'Attend to CHI’25 in Yokohama, Japan! If you want to have a coffee...',
+          description: "",
+          section: "News",},{id: "news-one-first-author-paper-is-submitted-to-ismar-25-please-wish-me-luck",
+          title: 'One first-author paper is submitted to ISMAR ‘25! Please wish me luck!',
           description: "",
           section: "News",},{id: "projects-harvesting-robot",
           title: 'Harvesting Robot',
