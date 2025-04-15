@@ -2,7 +2,7 @@
 layout: page
 title: Harvesting Robot
 description: Wokred as Team Leader & Main Software Developer, Python, TensorFlow, Jetson TX2, Realsense, MicroController. 2018. 09 ~ 2020. 09.
-img: assets/img/harvesting.png
+img: assets/img/Harvesting.png
 importance: 1
 category: Deep Learning
 related_publications: true
