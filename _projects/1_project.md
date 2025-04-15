@@ -19,7 +19,7 @@ Through the project, we had been rewarded three Dean's Diessertion Awards (ADBL 
         {% include figure.liquid loading="eager" path="assets/img/Harvesting_old.png" title="Harvesting Robot" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/harvesting.png" title="Harvesting Robot 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Harvesting.png" title="Harvesting Robot 2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Harvesting_dl.jpg" title="Object Detection" class="img-fluid rounded z-depth-1" %}

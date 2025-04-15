@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attend to CHI'25 in Yokohama, Japan! If you want a coffee chat, please feel free to mail me.
+Attend to CHI'25 in Yokohama, Japan! If you want to have a coffee chat, please feel free to mail or ping me.
