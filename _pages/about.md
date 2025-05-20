@@ -14,6 +14,7 @@ profile:
     <p>Department of AI Convergence</p>    
     <p>Gwangju Institute of Science and Technology</p>
     <p>leedaeho@gm.gist.ac.kr</p>
+    <p>zmnh2003@gmail.com</p>
     <p>Republic of Korea</p>
 
 
@@ -38,6 +39,3 @@ My research focuses on AI for Human, HCI, AI for eXtended Reality, multi-modal A
 My ultimate goal is to develop seamless extended reality experiences that make human interaction more intuitive, comfortable, and joyful.
 
 If you are interested in collaborative research/projects, please feel free to mail me.
-
-
-I'm looking for a internship(visiting scholar) position which will be fully funded by Gwangju Institute of Science and Technology. If you are interested, please feel free to mail me.
