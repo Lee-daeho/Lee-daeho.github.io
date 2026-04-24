@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One first-author poster paper(Seeing and Sensing Intention: Resolving Midas Touch with Vision-Motion Fusion in Mixed Reality) is accepted to UIST! See you at Busan!
+One first-author poster paper (Seeing and Sensing Intention: Resolving Midas Touch with Vision-Motion Fusion in Mixed Reality) is accepted to UIST! See you at Busan!
