@@ -105,7 +105,7 @@ ninja.data = [{
           section: "News",},{id: "news-successfully-completed-my-visiting-scholarship-at-cu-boulder-working-with-prof-ryo-suzuki-and-programmable-reality-lab-on-xr-robotics-and-ai-agents-was-a-fantastic-experience-exciting-collaborations-are-still-to-come",
           title: 'Successfully completed my visiting scholarship at CU Boulder! Working with Prof. Ryo Suzuki...',
           description: "",
-          section: "News",},{id: "news-one-second-author-paper-cinemaworld-generative-augmented-reality-with-llms-and-3d-scene-generation-for-movie-augmentation-is-accepted-to-uist-26-see-you-at-detroit",
+          section: "News",},{id: "news-one-second-author-paper-cinemaworld-generative-augmented-reality-with-llms-and-3d-scene-generation-for-movie-augmentation-is-accepted-to-uist-26-also-we-ll-demo-our-system-at-the-conference-see-you-at-detroit",
           title: 'One second-author paper (CinemaWorld: Generative Augmented Reality with LLMs and 3D Scene Generation...',
           description: "",
           section: "News",},{id: "projects-harvesting-robot",
